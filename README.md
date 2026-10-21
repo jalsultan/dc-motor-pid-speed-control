@@ -34,7 +34,6 @@ Rise time is 10-90%. Only the PID meets both targets.
 | File | What it is |
 | --- | --- |
 | `dc_motor_pid_speed_control.slx` | Simulink model (PID, saturation, load disturbance) |
-| `dc_motor_pid.m` | MATLAB script version: builds the model, compares P/PI/PID, simulates saturation |
 | `DC_Motor_PID_Report.pdf` | Full project report |
 | `plots/` | Step responses for P, PI and PID, the saturation cases, and the Simulink diagram |
 
